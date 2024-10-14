@@ -1,3 +1,15 @@
+/*Write a Menu driven C program to accomplish the following functionalities in doubly
+linked list.
+a) Create a doubly linked list.
+b) Display the elements of a doubly linked list.
+c) Insert a node at the beginning of a doubly linked list.
+d) Insert a node at the end of a doubly linked list.
+e) Insert a node before a given node of a doubly linked list.
+f) Insert a node after a given node of a doubly linked list.
+g) Delete a node from the beginning of a doubly linked list.
+h) Delete a node from the end of a doubly linked list.
+i) Delete a node after a given node of a doubly linked list.
+j) Delete the entire doubly linked list.*/
 #include <stdio.h>
 #include <stdlib.h>
 
