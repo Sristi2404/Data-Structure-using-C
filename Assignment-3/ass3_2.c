@@ -1,3 +1,13 @@
+/*Write a Menu driven C program to accomplish the following functionalities in circular
+linked list.
+a) Create a circular linked list.
+b) Display the elements of a circular linked list.
+c) Insert a node at the beginning of a circular linked list.
+d) Insert a node at the end of a circular linked list.
+e) Delete a node from the beginning of a circular linked list.
+f) Delete a node from the end of a circular linked list.
+g) Delete a node after a given node of a circular linked list.
+h) Delete the entire circular linked list.*/
 #include <stdio.h>
 #include <stdlib.h>
 
