@@ -1,3 +1,5 @@
+/*Write a program that reads a 2D metrics and checks if the metrics is a symmetric metrics
+or not.*/
 #include <stdio.h>
 int main(){
   int n;
