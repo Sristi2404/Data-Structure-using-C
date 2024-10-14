@@ -1,3 +1,15 @@
+/*Write a Menu driven C program to accomplish the following functionalities in single
+linked list.
+a) Create a single linked list.
+b) Display the elements of a single linked list.
+c) Insert a node at the beginning of a single linked list.
+d) Insert a node at the end of a single linked list.
+e) Insert a node before a given node of a single linked list.
+f) Insert a node after a given node of a single linked list.
+g) Delete a node from the beginning of a single linked list.
+h) Delete a node from the end of a single linked list.
+i) Delete a node after a given node of a single linked list.
+j) Delete the entire single linked list.*/
 #include <stdio.h>
 #include <stdlib.h>
 
