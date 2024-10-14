@@ -1,3 +1,4 @@
+/*Write a C program to print the largest and second largest element of the array.*/
 #include<stdio.h>
 int main()
 {
