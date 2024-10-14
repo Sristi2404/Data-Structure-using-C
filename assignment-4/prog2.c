@@ -1,3 +1,13 @@
+/*Write a Menu driven C program to accomplish the following functionalities in circular
+doubly linked list.
+a) Create a circular doubly linked list.
+b) Display the elements of a circular doubly linked list.
+c) Insert a node at the beginning of a circular doubly linked list.
+d) Insert a node at the end of a circular doubly linked list.
+e) Delete a node from the beginning of a circular doubly linked list.
+f) Delete a node from the end of a circular doubly linked list.
+g) Delete a node after a given node of a circular doubly linked list.
+h) Delete the entire circular doubly linked list.*/
 #include <stdio.h>
 #include <stdlib.h>
 
