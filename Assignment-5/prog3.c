@@ -1,3 +1,10 @@
+/*Write a Menu driven C program to accomplish the following functionalities in Circular
+Queue using Array:
+i. Insert an element into the circular queue.
+j. Delete an element from the circular queue.
+k. Return the value of the FRONT element of the circular queue (without deleting it
+from the queue).
+l. Display the elements of a circular queue using the circular queue.*/
 #include <stdio.h>
 #include <stdlib.h>
 
