@@ -1,3 +1,10 @@
+/*Write a Menu driven C program to accomplish the following functionalities in Queue using
+Linked List:
+e. Insert an element into the queue using a Linked List (Enqueue Operation).
+f. Delete an element from the queue using a Linked List (Dequeue Operation).
+g. Return the value of the FRONT element of the queue (without deleting it from the
+queue) using a Linked List (Peep operation).
+h. Display the elements of a queue using a Linked List.*/
 #include <stdio.h>
 #include <stdlib.h>
 
