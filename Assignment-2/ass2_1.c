@@ -1,3 +1,5 @@
+/*Write a C program to read a 2D array (with most of the elements as 0s) and then
+represent the same array as Sparse Metrics.*/
 #include<stdio.h>
 #include<stdlib.h>
 int main(){
