@@ -1,3 +1,4 @@
+/*Write a C program to check duplicate number in an array.*/
 #include<stdio.h>
 void main()
 {
