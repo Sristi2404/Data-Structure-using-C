@@ -1,3 +1,4 @@
+/*Write a C program to convert temperature from degree Centigrade to Fahrenheit.*/
 #include<stdio.h>
 int main()
 {
