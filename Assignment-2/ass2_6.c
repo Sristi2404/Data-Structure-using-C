@@ -1,3 +1,5 @@
+/*Write a program to display n number of elements. Memory should be allocated
+dynamically using malloc ( ).*/
 #include<stdio.h>
 #include<stdlib.h>
 int main(){
