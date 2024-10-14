@@ -1,3 +1,6 @@
+/*Write a C program to pass an array to a function using Call by Value, update the array
+values in the function, print the array elements both in the function and in the calling
+function.*/
 #include<stdio.h>
 #define MAX 10
 void updateArray(int arr[], int n){
