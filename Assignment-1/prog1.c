@@ -1,3 +1,4 @@
+/*Write a C program to print an array.*/
 #include<stdio.h>
 int main()
 {
