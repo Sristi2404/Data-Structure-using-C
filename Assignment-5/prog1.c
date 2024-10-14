@@ -1,3 +1,10 @@
+/*Write a Menu driven C program to accomplish the following functionalities in Queue using
+an Array:
+a. Insert an element into the queue using an array (Enqueue Operation).
+b. Delete an element from the queue using an array (Dequeue Operation).
+c. Return the value of the FRONT element of the queue (without deleting it from the
+queue) using an array (Peep operation).
+d. Display the elements of a queue using an array.*/
 #include <stdio.h>
 
 #include <stdlib.h>
